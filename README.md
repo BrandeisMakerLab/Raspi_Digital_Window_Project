@@ -45,4 +45,4 @@ With the results, you can run a stream that looks like this:
 
 ​	Please email makerlab@brandeis.edu if you would like to contribute to this project or install your own 	digital window
 
-​	Clickup ID #164d78
+​	Clickup ID #164d78 for Makerlab Team
